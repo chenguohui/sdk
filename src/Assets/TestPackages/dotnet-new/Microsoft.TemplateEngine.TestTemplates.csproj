@@ -8,7 +8,7 @@
     <IncludeContentInPack>true</IncludeContentInPack>
     <IncludeBuildOutput>false</IncludeBuildOutput>
     <ContentTargetFolders>content</ContentTargetFolders>
-    <NoWarn>$(NoWarn);NU5128</NoWarn>
+    <NoWarn>$(NoWarn);NU5128;NU1507</NoWarn>
     <IsPackable>true</IsPackable>
     <IsShipping>false</IsShipping>
     <NoDefaultExcludes>true</NoDefaultExcludes>
